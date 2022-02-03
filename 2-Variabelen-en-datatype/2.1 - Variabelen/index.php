@@ -3,9 +3,9 @@
 <body>
 
 <?php
-$score = 0;
+$naam = "Colin";
 
-echo "$score";
+echo $naam;
 
 ?>
 
