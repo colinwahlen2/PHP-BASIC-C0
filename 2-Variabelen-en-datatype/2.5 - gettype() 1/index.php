@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<?php
-
+<?php 
+$Voornaam = "tom";
+echo gettype("$Voornaam")
 ?>
-
-</body>
-</html> 
