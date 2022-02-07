@@ -1,4 +1,4 @@
 <?php 
-$Voornaam = "tom";
+$Voornaam = "Tom";
 echo gettype("$Voornaam")
 ?>
